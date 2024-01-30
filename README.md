@@ -1,24 +1,24 @@
 # RandGen Pro
 
-RandGen Pro is a  mobile app developed using machine learning insights from Google Code lab. It serves as a versatile tool for generating random words, offering a wide range of applications from brainstorming to creative projects.
+RandGen Pro is a cutting-edge mobile app developed with Flutter, utilizing machine learning knowledge from Google Code lab. It serves as a versatile tool for generating random words, enhancing your creative projects.
 
 ## Features
 
 - Advanced word generation
 - Machine learning-driven insights
-- User-friendly interface
+- Flutter-powered interface
 
 ## Getting Started
 
 ### Prerequisites
 
-- Ensure you have [required dependencies] installed.
+- Ensure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
 
 ### Installation
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Run `your_installation_command` to set up the app.
+3. Run `flutter pub get` to install dependencies.
 
 ### Usage
 
